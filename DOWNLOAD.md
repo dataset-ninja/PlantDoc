@@ -1,6 +1,6 @@
-Dataset **PlantDOC** can be downloaded in Supervisely format:
+Dataset **PlantDoc** can be downloaded in Supervisely format:
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/L/B/QS/8daoOWs7dLylqA01eaTYFSkub2cfN1SivmgfWulpNhnomxV9OZuQkdZDiPMzv2FP4XMijk4X3mr57sbE65qvt4i4FXM1HkdD6AHmHDB7UPuuLy2XUOa8lPOgfYgp.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/P/d/HN/jRsYPbc7dqMuYYFYSFbJrZmSD3GcIXI1UHDLVBxp3616gYhb0uRtobr1nBZQyoFdg8F6TrbPqsHEJZwLRZyUitmC28nPNPI05zXp1BTtWp3up6q30oJXUmvikhcE.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
@@ -11,6 +11,6 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='PlantDOC', dst_path='~/dtools/datasets/PlantDOC.tar')
+dtools.download(dataset='PlantDoc', dst_path='~/dtools/datasets/PlantDoc.tar')
 ```
 The data in original format can be 🔗[downloaded here](https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset/archive/refs/heads/master.zip)
