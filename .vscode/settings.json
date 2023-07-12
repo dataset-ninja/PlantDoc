@@ -30,5 +30,8 @@
     "isort.args": [
         "--profile",
         "black"
-    ]
+    ],
+    "workbench.editorAssociations": {
+        "*.csv": "default"
+    }
 }
