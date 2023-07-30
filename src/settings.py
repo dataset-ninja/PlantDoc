@@ -84,7 +84,14 @@ PAPER: Optional[str] = "https://arxiv.org/pdf/1911.10317.pdf"
 CITATION_URL: Optional[
     str
 ] = "https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset#bibtex"
-AUTHORS: Optional[List[str]] = None
+AUTHORS: Optional[List[str]] = [
+    "Singh, Davinder",
+    "Jain, Naman",
+    "Jain, Pranjali",
+    "Kayal, Pratik",
+    "Kumawat, Sudhakar",
+    "Batra, Nipun",
+]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Indian Institute of Technology Gandhinagar"
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://iitgn.ac.in/"
