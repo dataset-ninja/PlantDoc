@@ -1,6 +1,6 @@
 If you make use of the PlantDOC data, please cite the following reference:
 
-``` bibtex
+```bibtex
 @inproceedings{10.1145/3371158.3371196,
 author = {Singh, Davinder and Jain, Naman and Jain, Pranjali and Kayal, Pratik and Kumawat, Sudhakar and Batra, Nipun},
 title = {PlantDoc: A Dataset for Visual Plant Disease Detection},
@@ -19,4 +19,4 @@ series = {CoDS COMAD 2020}
 }
 ```
 
-[🔗 Source](https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset#bibtex)
+[Source](https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset#bibtex)

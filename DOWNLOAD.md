@@ -1,4 +1,4 @@
-Dataset **PlantDoc** can be downloaded in Supervisely format:
+Dataset **PlantDoc** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
  [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/P/d/HN/jRsYPbc7dqMuYYFYSFbJrZmSD3GcIXI1UHDLVBxp3616gYhb0uRtobr1nBZQyoFdg8F6TrbPqsHEJZwLRZyUitmC28nPNPI05zXp1BTtWp3up6q30oJXUmvikhcE.tar)
 
@@ -11,6 +11,8 @@ pip install --upgrade dataset-tools
 ``` python
 import dataset_tools as dtools
 
-dtools.download(dataset='PlantDoc', dst_path='~/dtools/datasets/PlantDoc.tar')
+dtools.download(dataset='PlantDoc', dst_dir='~/dataset-ninja/')
 ```
-The data in original format can be 🔗[downloaded here](https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset/archive/refs/heads/master.zip)
+Make sure not to overlook the [python code example](https://developer.supervisely.com/getting-started/python-sdk-tutorials/iterate-over-a-local-project) available on the Supervisely Developer Portal. It will give you a clear idea of how to effortlessly work with the downloaded dataset.
+
+The data in original format can be [downloaded here](https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset/archive/refs/heads/master.zip)

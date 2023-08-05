@@ -80,7 +80,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = {
 }
 # If specific colors for classes are needed, fill this dict (e.g. {"class1": [255, 0, 0], "class2": [0, 255, 0]})
 
-PAPER: Optional[str] = "https://arxiv.org/pdf/1911.10317.pdf"
+PAPER: Optional[str] = "https://arxiv.org/abs/1911.10317"
 CITATION_URL: Optional[
     str
 ] = "https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset#bibtex"
