@@ -1,6 +1,6 @@
 Dataset **PlantDoc** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/9/T/xl/XbULNoA1HmUPItgJ4NQMURnzckgPkNshW12Pvh9kV4O0StlE1IQN7nm0J7TBBsxOw4NIuRZXsTMLaX62rk8kNcSc4ZZcPZ2W598wTDfgCf5RqBb1eJejwCjCbotJ.tar)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/8/k/TK/pk7GrZWOPa6lsdWDeMyqDElQqc3V0qW6s60xpxjSySfTczXZ4XsLzqfxT0U617VQOzH2XXp2OCAhaVMAsjhQa67eSFmECPe1ZT2e3gLgeItV89WGot81MzbnUyQs.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
