@@ -20,7 +20,7 @@ HIDE_DATASET = False  # set False when 100% sure about repo quality
 ##################################
 # * After uploading to instance ##
 ##################################
-LICENSE: License = License.CC_BY_4_0()
+LICENSE: License = License.CC_BY_4_0(source_url="https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset/blob/master/LICENSE.txt")
 APPLICATIONS: List[Union[Industry, Research, Domain]] = [Research.Agricultural()]
 CATEGORY: Category = Category.Agriculture()
 
